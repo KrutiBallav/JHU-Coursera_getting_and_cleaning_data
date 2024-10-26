@@ -42,7 +42,7 @@ The script performs the following key steps:
 
 5. **Creating the Tidy Dataset**:
    - Creates a tidy dataset with the average of each variable for each activity and subject.
-   - Saves the tidy dataset to a text file (`tidy_data.txt`).
+   - Saves the tidy dataset to a text file (`tidy_data.csv`).
 
 ---
 
