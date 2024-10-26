@@ -68,5 +68,8 @@ tidySet <- setWithActivityNames %>%
 # Save the tidy dataset to a CSV file
 write.csv(tidySet, "tidySet.csv", row.names = FALSE)
 
+# Save the tidy dataset to a text file
+write.table(tidySet, "tidySet.txt", row.names = FALSE)
+
 # contact email :- krutiballavstark@gmail.com
 # github profile page :- https://github.com/KrutiBallav
