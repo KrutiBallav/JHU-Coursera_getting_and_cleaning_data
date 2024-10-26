@@ -1,4 +1,3 @@
-# install.packages "dplyr", "knitr", "kableExtra", "rmarkdown"
 # Load the required library for data manipulation
 library(dplyr)
 
