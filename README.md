@@ -17,17 +17,17 @@ This repository contains the R script `run_analysis.R`, designed for data cleani
 
 - **`CodeBook.md`**: Describes variables, dataset structure, and transformations performed.
 
-- **`tidy_data.txt`**: Contains the final tidy dataset with averages for each variable.
+- **`tidy_data.csv`**: Contains the final tidy dataset with averages for each variable.
 
 ---
 
 ## ▶️ How to Run
 
-1. **Download the Data**: [Get the dataset](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and extract it to your working directory.
+1. **Download the Data**: [Get the dataset](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and extract it to your working directory under a folder named DATA.
 
 2. **Run the Script**: 
    - Open R or RStudio.
-   - Run `run_analysis.R` to clean the data and generate `tidy_data.txt`.
+   - Run `run_analysis.R` to clean the data and generate `tidy_data.csv`.
 
 ---
 
