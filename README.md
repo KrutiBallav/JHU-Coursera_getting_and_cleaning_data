@@ -1,4 +1,4 @@
-# 🚀 Getting and Cleaning Data Project 2023
+# 🚀 Getting and Cleaning Data Project 2024
 
 This repository contains the R script `run_analysis.R`, designed for data cleaning and analysis based on project requirements. The goal: to showcase skills in collecting, cleaning, and preparing data for analysis using accelerometer data from Samsung Galaxy S smartphones.
 
